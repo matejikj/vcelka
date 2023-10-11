@@ -7233,7 +7233,11 @@ textarea.form-control-lg {
 }
 
 .bg-light {
-  background-color: white !important;
+  background-color: #fffde7 !important;
+}
+
+.bg-sky {
+  background-image: url('../background-clipart-clouds-powerpoint-templates.jpg');
 }
 
 .bg-dark {
