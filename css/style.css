@@ -1,24 +1,3 @@
-/* .container-fluid.about.bg-light {
-    position: relative;
-    overflow: hidden;
-}
-
-#parallax-container::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-image: url('https://www.patternpictures.com/wp-content/uploads/grass-field-texture-patternpictures-2514-768x510.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center center;
-    transform: translate(0, 0);
-    z-index: -1;
-} */
-
 #aaa {
     /* background-image: url('../background-clipart-clouds-powerpoint-templates.jpg'); */
     background-color: #fffccb;
@@ -37,7 +16,7 @@
 
 
 
-.container-fluid.border-bottom.wow.fadeIn.with-grass {
+/* .container-fluid.border-bottom.wow.fadeIn.with-grass {
     position: relative;
 }
 
@@ -45,19 +24,14 @@
     content: "";
     position: absolute;
     bottom: -5px;
-    /* Adjust the distance of the grass from the bottom */
     left: 0;
     right: 0;
     height: 25px;
-    /* Adjust the height of the grass */
     background-image: url('https://clipart-library.com/img1/750479.png');
-    /* Replace 'grass-image.png' with your grass image file path */
     background-repeat: repeat-x;
     background-size: auto 25px;
-    /* Adjust the size of the grass */
     z-index: 1;
-    /* Adjust the z-index as needed */
-}
+} */
 
 #footer {
     background-image: url('../grass.png');
